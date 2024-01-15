@@ -59,7 +59,7 @@ export default function Contact() {
             </div>
 
             <div class="col-lg-8 mt-5 mt-lg-0">
-              <form
+              <div
                 action="forms/contact.php"
                 method="post"
                 role="form"
@@ -116,7 +116,7 @@ export default function Contact() {
                 <div class="text-center">
                   <button type="submit">Send Message</button>
                 </div>
-              </form>
+              </div>
             </div>
           </div>
         </div>

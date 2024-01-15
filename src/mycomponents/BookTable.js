@@ -18,7 +18,7 @@ export default function BookTable() {
             <p>Book a Table</p>
           </div>
 
-          <form
+          <div
             action="forms/book-a-table.php"
             method="post"
             role="form"
@@ -120,7 +120,7 @@ export default function BookTable() {
             <div class="text-center">
               <button type="submit">Book a Table</button>
             </div>
-          </form>
+          </div>
         </div>
       </section>
     </div>
